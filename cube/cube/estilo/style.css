@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background: linear-gradient(
+        white,
+        rgb(189, 189, 209),
+        rgb(118, 118, 170)
+    );
+}
+
+canvas{/*area de aplicação*/
+    display: block;
+}

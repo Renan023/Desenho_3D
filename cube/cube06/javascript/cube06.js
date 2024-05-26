@@ -53,3 +53,6 @@
   }
 
   animate();
+
+//Canvas com Transparência:O renderizador Three.js é configurado com { alpha: true } para permitir que o 
+//fundo em degradê do CSS seja visível através do canvas.

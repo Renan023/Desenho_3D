@@ -9,3 +9,6 @@ Cubo com animação em movimento, porém bate nas bordas e segue em outra direç
 
 25/05/24
 no desenho 3D do cubo foi incluido cor no background de fundo atraves do javascript. E no outro um degrade no fundo usando o CSS
+
+27/05/24
+Inclusão de cada canto do cubo ficar de outra cor , sombra e luz. exercicios do cubo 

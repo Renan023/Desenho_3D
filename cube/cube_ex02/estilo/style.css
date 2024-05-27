@@ -1,0 +1,14 @@
+html, body{
+    background: linear-gradient(
+        to top right, 
+        #ff22ee,
+        #cc88ee,
+        #ccccee
+    );
+    width: 100%;
+    height: 100%;
+}
+
+canvas{
+    display: block;
+}

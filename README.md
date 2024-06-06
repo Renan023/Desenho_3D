@@ -12,3 +12,6 @@ no desenho 3D do cubo foi incluido cor no background de fundo atraves do javascr
 
 27/05/24
 Inclusão de cada canto do cubo ficar de outra cor , sombra e luz. exercicios do cubo 
+
+06/06/24
+No arquivo learning THREE.js tem exercicios praticados do livro THREE.JS essentials do capítulo 1. Obs os códigos podem estar levemente diferentes pois estão sendo feitos novamente com o intuito de fixar 

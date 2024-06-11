@@ -15,3 +15,6 @@ Inclusão de cada canto do cubo ficar de outra cor , sombra e luz. exercicios do
 
 06/06/24
 No arquivo learning THREE.js tem exercicios praticados do livro THREE.JS essentials do capítulo 1. Obs os códigos podem estar levemente diferentes pois estão sendo feitos novamente com o intuito de fixar 
+
+11/06/24
+capitulo 1.5 inserido nele se coloca o controle GUI e o painel de estatisticas
